@@ -15,8 +15,8 @@ Installation
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/your-username/e-commerce-website.git
+Copy code https://github.com/sindhyasri/E-COMMERCE-Website/edit/main/README.md
+git clone 
 Install frontend dependencies:
 
 bash
